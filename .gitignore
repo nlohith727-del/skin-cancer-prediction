@@ -1,0 +1,9 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+kaggle.json
+*access_token*
+*.key
+secrets/
